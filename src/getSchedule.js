@@ -44,6 +44,4 @@ function getSchedule(scheduleTarget) {
   return getScheduleGeneral();
 }
 
-console.log(getSchedule());
-
 module.exports = getSchedule;
